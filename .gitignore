@@ -1,0 +1,6 @@
+node_modules
+out
+vsix
+src/extension-model.ts
+.vscode-test/
+.vsix
