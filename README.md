@@ -31,9 +31,13 @@ First version of the extension, no important note at the moment **(")(^_^)(")**.
 >
 >Also follow the evolution of the extension in [github](https://github.com/cymonbr/SqlFormatter-VSCode).
 
-### Version 1.0.0
+# Contributors
+AndyMc47 - (https://github.com/AndyMc47)
 
-Initial version of the extension!!! Go go go
+# Version Notes
+### 1.0.2
+
+- Fixed problem of not formatting multiple files
 
 # License
 
