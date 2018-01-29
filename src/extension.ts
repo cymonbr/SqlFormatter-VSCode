@@ -6,7 +6,6 @@ import { window, TextEditor, Range, Position } from 'vscode';
 import * as sqlFormatter  from 'sql-formatter';
 
 var sqlChannel = vscode.window.createOutputChannel('sqlFormatter');
-var editor     = vscode.window.activeTextEditor;
 
 // this method is called when your extension is activated
 // your extension is activated the very first time the command is executed
