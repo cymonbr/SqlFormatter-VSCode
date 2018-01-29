@@ -31,6 +31,7 @@ export class sqlFormatterClass {
     constructor() {}
 
     formatter() {
+        let editor = vscode.window.activeTextEditor;
         let text   = editor.document.getText();
 
         sqlChannel.append("---------------------------\n");
